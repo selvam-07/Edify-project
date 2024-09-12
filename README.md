@@ -1,5 +1,3 @@
-# Define the content of the README file
-
 # Predicting Gaming Behavior Using Random Forest
 
 ## Overview
